@@ -1,0 +1,6 @@
+framework module Pods_IcsChat {
+  umbrella header "Pods-IcsChat-umbrella.h"
+
+  export *
+  module * { export * }
+}
